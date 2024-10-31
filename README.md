@@ -26,3 +26,4 @@
 ● 데이터베이스 서버 : mariaDB 
 
 ![image](https://github.com/user-attachments/assets/0e8f47d9-cb2b-4b68-aadb-d678e43d5923)
+![image](https://github.com/user-attachments/assets/da9854ae-1271-4ec7-9820-3e7a01cbc7ff)
